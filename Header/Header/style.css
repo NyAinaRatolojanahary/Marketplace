@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+} 
+#navbarNav{
+  margin-left: 850px !important;
+
+}
+#navBar{
+    height: 55px;
+}
+.navbar-brand img{
+    width: 60px;
+    height: 55px;
+}
+#head1{
+    background-color: black;
+    height: 55px;
+    padding-top: 7px;
+}
+
+#head1 ul li a{
+    color: white!important;
+    font-weight: 12px;
+    padding-left: 50px;
+}
+
+#inscription{
+
+}
+
+.navbar-collapse{
+    margin-left: 350px;
+}
+
+#search input{
+    width: 250px; 
+    border-radius: 20px;
+}
+#search span{
+    position: relative;
+    right: 28px;
+    border-radius: 0px 35px 35px 0px ;
+}
